@@ -1,5 +1,5 @@
-code: XYZ
-name: XYZ Type
+code: DEF
+name: DEF Type
 status: '0'
 attributes:
   - code: title
