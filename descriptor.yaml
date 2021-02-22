@@ -1,0 +1,17 @@
+code: nshaw-eng-1900
+description: Bundle for ENG-1900
+
+components:
+  pages:
+    - pages/abc-page-descriptor.yaml
+
+  contentTypes:
+    - pages/abc-descriptor.yaml
+
+  contentModels:
+    - pages/abc1-descriptor.yaml
+
+  contents:
+    - pages/abc1-descriptor.yaml
+
+
