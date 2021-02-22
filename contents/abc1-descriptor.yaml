@@ -1,0 +1,13 @@
+id: ABC1
+typeCode: ABC
+description: ABC Content item
+mainGroup: free
+status: DRAFT
+attributes:
+  - code: title
+    value: null
+    values:
+      en: ABC Content title
+    elements: []
+    compositeelements: []
+    listelements: {}

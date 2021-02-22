@@ -1,0 +1,18 @@
+code: abc_page
+parentCode: homepage
+titles:
+  en: ABC Page
+pageModel: 1-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets:
+  - code: content_viewer
+    config:
+      contentDescription: main-banner
+      modelId: '1'
+      contentid: ABC1
+    pos: 0
