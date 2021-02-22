@@ -6,7 +6,7 @@ components:
     - pages/abc-page-descriptor.yaml
 
   contentTypes:
-    - contentTypes/abc-descriptor.yaml
+    - contentTypes/xyz-descriptor.yaml
 
   contentModels:
     - contentModels/abc1-descriptor.yaml
