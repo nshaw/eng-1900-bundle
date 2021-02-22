@@ -13,6 +13,6 @@ widgets:
   - code: content_viewer
     config:
       contentDescription: main-banner
-      modelId: '1'
+      modelId: '20001'
       contentid: ABC1
     pos: 0
