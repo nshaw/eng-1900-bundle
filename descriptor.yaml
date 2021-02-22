@@ -6,12 +6,12 @@ components:
     - pages/abc-page-descriptor.yaml
 
   contentTypes:
-    - contents/abc-descriptor.yaml
+    - contentTypes/abc-descriptor.yaml
 
   contentModels:
     - contentModels/abc1-descriptor.yaml
 
   contents:
-    - contentTypes/abc1-descriptor.yaml
+    - contents/abc1-descriptor.yaml
 
 
