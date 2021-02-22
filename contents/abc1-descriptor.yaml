@@ -2,7 +2,7 @@ id: ABC1
 typeCode: ABC
 description: ABC Content item
 mainGroup: free
-status: DRAFT
+status: PUBLIC
 attributes:
   - code: title
     value: null
